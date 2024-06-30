@@ -1,0 +1,228 @@
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פוריקט מהבית\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\TaskManagement.Scripts.exe
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פוריקט מהבית\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\TaskManagement.Scripts.deps.json
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פוריקט מהבית\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\TaskManagement.Scripts.runtimeconfig.json
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פוריקט מהבית\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\TaskManagement.Scripts.dll
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פוריקט מהבית\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\TaskManagement.Scripts.pdb
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פוריקט מהבית\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\obj\Debug\net6.0\TaskManagement.Scripts.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פוריקט מהבית\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\obj\Debug\net6.0\TaskManagement.Scripts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פוריקט מהבית\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\obj\Debug\net6.0\TaskManagement.Scripts.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פוריקט מהבית\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\obj\Debug\net6.0\TaskManagement.Scripts.AssemblyInfo.cs
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פוריקט מהבית\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\obj\Debug\net6.0\TaskManagement.Scripts.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פוריקט מהבית\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\obj\Debug\net6.0\TaskManagement.Scripts.dll
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פוריקט מהבית\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\obj\Debug\net6.0\refint\TaskManagement.Scripts.dll
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פוריקט מהבית\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\obj\Debug\net6.0\TaskManagement.Scripts.pdb
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פוריקט מהבית\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\obj\Debug\net6.0\TaskManagement.Scripts.genruntimeconfig.cache
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פוריקט מהבית\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\obj\Debug\net6.0\ref\TaskManagement.Scripts.dll
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פוריקט מהבית\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\Aspose.Email.dll
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פוריקט מהבית\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\System.Formats.Asn1.dll
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פוריקט מהבית\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פוריקט מהבית\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פוריקט מהבית\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\obj\Debug\net6.0\TaskManagement.Scripts.csproj.CopyComplete
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פוריקט מהבית\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פוריקט מהבית\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פוריקט מהבית\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פוריקט מהבית\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פוריקט מהבית\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פוריקט מהבית\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פוריקט מהבית\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פוריקט מהבית\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פוריקט מהבית\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פוריקט מהבית\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פוריקט מהבית\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\TaskManagement.Repository.dll
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פוריקט מהבית\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\TaskManagement.Repository.pdb
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פוריקט מהבית\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\TaskManagement.Scripts.exe
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פוריקט מהבית\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\TaskManagement.Scripts.deps.json
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פוריקט מהבית\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\TaskManagement.Scripts.runtimeconfig.json
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פוריקט מהבית\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\TaskManagement.Scripts.dll
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פוריקט מהבית\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\TaskManagement.Scripts.pdb
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פוריקט מהבית\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\Aspose.Email.dll
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פוריקט מהבית\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פוריקט מהבית\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פוריקט מהבית\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פוריקט מהבית\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פוריקט מהבית\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פוריקט מהבית\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פוריקט מהבית\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פוריקט מהבית\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פוריקט מהבית\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פוריקט מהבית\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פוריקט מהבית\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\System.Formats.Asn1.dll
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פוריקט מהבית\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פוריקט מהבית\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פוריקט מהבית\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\TaskManagement.Repository.dll
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פוריקט מהבית\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\TaskManagement.Repository.pdb
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פוריקט מהבית\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\obj\Debug\net6.0\TaskManagement.Scripts.csproj.AssemblyReference.cache
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פוריקט מהבית\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\obj\Debug\net6.0\TaskManagement.Scripts.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פוריקט מהבית\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\obj\Debug\net6.0\TaskManagement.Scripts.AssemblyInfoInputs.cache
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פוריקט מהבית\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\obj\Debug\net6.0\TaskManagement.Scripts.AssemblyInfo.cs
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פוריקט מהבית\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\obj\Debug\net6.0\TaskManagement.Scripts.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פוריקט מהבית\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\obj\Debug\net6.0\TaskManagement.Scripts.csproj.CopyComplete
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פוריקט מהבית\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\obj\Debug\net6.0\TaskManagement.Scripts.dll
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פוריקט מהבית\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\obj\Debug\net6.0\refint\TaskManagement.Scripts.dll
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פוריקט מהבית\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\obj\Debug\net6.0\TaskManagement.Scripts.pdb
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פוריקט מהבית\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\obj\Debug\net6.0\TaskManagement.Scripts.genruntimeconfig.cache
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פוריקט מהבית\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\obj\Debug\net6.0\ref\TaskManagement.Scripts.dll
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\TaskManagement.Scripts.exe
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\TaskManagement.Scripts.deps.json
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\TaskManagement.Scripts.runtimeconfig.json
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\TaskManagement.Scripts.dll
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\TaskManagement.Scripts.pdb
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\Aspose.Email.dll
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\System.Formats.Asn1.dll
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\TaskManagement.Repository.dll
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\TaskManagement.Repository.pdb
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\obj\Debug\net6.0\TaskManagement.Scripts.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\obj\Debug\net6.0\TaskManagement.Scripts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\obj\Debug\net6.0\TaskManagement.Scripts.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\obj\Debug\net6.0\TaskManagement.Scripts.AssemblyInfo.cs
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\obj\Debug\net6.0\TaskManagement.Scripts.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\obj\Debug\net6.0\TaskManagement.Scripts.csproj.CopyComplete
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\obj\Debug\net6.0\TaskManagement.Scripts.dll
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\obj\Debug\net6.0\refint\TaskManagement.Scripts.dll
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\obj\Debug\net6.0\TaskManagement.Scripts.pdb
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\obj\Debug\net6.0\TaskManagement.Scripts.genruntimeconfig.cache
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\obj\Debug\net6.0\ref\TaskManagement.Scripts.dll
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\EPPlus.dll
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\EPPlus.Interfaces.dll
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\EPPlus.System.Drawing.dll
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\TaskManagement.Common.dll
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\TaskManagement.Service.dll
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\TaskManagement.Service.pdb
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\TaskManagement.Common.pdb
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\TaskManagement.Scripts.exe
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\TaskManagement.Scripts.deps.json
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\TaskManagement.Scripts.runtimeconfig.json
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\TaskManagement.Scripts.dll
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\TaskManagement.Scripts.pdb
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\Aspose.Email.dll
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\AutoMapper.dll
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\EPPlus.dll
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\EPPlus.Interfaces.dll
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\EPPlus.System.Drawing.dll
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Features.dll
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\Microsoft.IO.RecyclableMemoryStream.dll
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\System.Drawing.Common.dll
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\System.Formats.Asn1.dll
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\System.IO.Pipelines.dll
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\TaskManagement.Common.dll
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\TaskManagement.Repository.dll
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\TaskManagement.Service.dll
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\TaskManagement.Repository.pdb
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\TaskManagement.Service.pdb
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\TaskManagement.Common.pdb
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\obj\Debug\net6.0\TaskManagement.Scripts.csproj.AssemblyReference.cache
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\obj\Debug\net6.0\TaskManagement.Scripts.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\obj\Debug\net6.0\TaskManagement.Scripts.AssemblyInfoInputs.cache
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\obj\Debug\net6.0\TaskManagement.Scripts.AssemblyInfo.cs
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\obj\Debug\net6.0\TaskManagement.Scripts.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\obj\Debug\net6.0\TaskManagement.Scripts.csproj.CopyComplete
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\obj\Debug\net6.0\TaskManagement.Scripts.dll
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\obj\Debug\net6.0\refint\TaskManagement.Scripts.dll
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\obj\Debug\net6.0\TaskManagement.Scripts.pdb
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\obj\Debug\net6.0\TaskManagement.Scripts.genruntimeconfig.cache
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\obj\Debug\net6.0\ref\TaskManagement.Scripts.dll
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\System.Runtime.Caching.dll
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\System.Security.Permissions.dll
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\System.Windows.Extensions.dll
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\TaskManagement.Model.dll
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\TaskManagement.Model.pdb
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\TaskManagement.Model.dll
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Scripts\bin\Debug\net6.0\TaskManagement.Model.pdb

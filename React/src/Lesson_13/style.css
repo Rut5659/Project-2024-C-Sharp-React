@@ -1,0 +1,11 @@
+a {
+    text-decoration: none;
+    padding: 6px;
+    border: 1px solid black;
+    border-radius: 6px;
+}
+
+.active {
+    color: red;
+    border-color: blue
+}

@@ -1,0 +1,60 @@
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פרויקט\TaskManagement.WebApi\TaskManagement.Repository\bin\Debug\net6.0\TaskManagement.Repository.deps.json
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פרויקט\TaskManagement.WebApi\TaskManagement.Repository\bin\Debug\net6.0\TaskManagement.Repository.dll
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פרויקט\TaskManagement.WebApi\TaskManagement.Repository\bin\Debug\net6.0\TaskManagement.Repository.pdb
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פרויקט\TaskManagement.WebApi\TaskManagement.Repository\obj\Debug\net6.0\TaskManagement.Repository.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פרויקט\TaskManagement.WebApi\TaskManagement.Repository\obj\Debug\net6.0\TaskManagement.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פרויקט\TaskManagement.WebApi\TaskManagement.Repository\obj\Debug\net6.0\TaskManagement.Repository.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פרויקט\TaskManagement.WebApi\TaskManagement.Repository\obj\Debug\net6.0\TaskManagement.Repository.AssemblyInfo.cs
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פרויקט\TaskManagement.WebApi\TaskManagement.Repository\obj\Debug\net6.0\TaskManagement.Repository.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פרויקט\TaskManagement.WebApi\TaskManagement.Repository\obj\Debug\net6.0\TaskManagement.Repository.dll
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פרויקט\TaskManagement.WebApi\TaskManagement.Repository\obj\Debug\net6.0\refint\TaskManagement.Repository.dll
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פרויקט\TaskManagement.WebApi\TaskManagement.Repository\obj\Debug\net6.0\TaskManagement.Repository.pdb
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פרויקט\TaskManagement.WebApi\TaskManagement.Repository\obj\Debug\net6.0\ref\TaskManagement.Repository.dll
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פוריקט מהבית\פרויקט\TaskManagement.WebApi\TaskManagement.Repository\bin\Debug\net6.0\TaskManagement.Repository.deps.json
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פוריקט מהבית\פרויקט\TaskManagement.WebApi\TaskManagement.Repository\bin\Debug\net6.0\TaskManagement.Repository.dll
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פוריקט מהבית\פרויקט\TaskManagement.WebApi\TaskManagement.Repository\bin\Debug\net6.0\TaskManagement.Repository.pdb
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פוריקט מהבית\פרויקט\TaskManagement.WebApi\TaskManagement.Repository\obj\Debug\net6.0\TaskManagement.Repository.csproj.AssemblyReference.cache
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פוריקט מהבית\פרויקט\TaskManagement.WebApi\TaskManagement.Repository\obj\Debug\net6.0\TaskManagement.Repository.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פוריקט מהבית\פרויקט\TaskManagement.WebApi\TaskManagement.Repository\obj\Debug\net6.0\TaskManagement.Repository.AssemblyInfoInputs.cache
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פוריקט מהבית\פרויקט\TaskManagement.WebApi\TaskManagement.Repository\obj\Debug\net6.0\TaskManagement.Repository.AssemblyInfo.cs
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פוריקט מהבית\פרויקט\TaskManagement.WebApi\TaskManagement.Repository\obj\Debug\net6.0\TaskManagement.Repository.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פוריקט מהבית\פרויקט\TaskManagement.WebApi\TaskManagement.Repository\obj\Debug\net6.0\TaskManagement.Repository.dll
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פוריקט מהבית\פרויקט\TaskManagement.WebApi\TaskManagement.Repository\obj\Debug\net6.0\refint\TaskManagement.Repository.dll
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פוריקט מהבית\פרויקט\TaskManagement.WebApi\TaskManagement.Repository\obj\Debug\net6.0\TaskManagement.Repository.pdb
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פוריקט מהבית\פרויקט\TaskManagement.WebApi\TaskManagement.Repository\obj\Debug\net6.0\ref\TaskManagement.Repository.dll
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פוריקט מהבית\פרויקט\TaskManagement.WebApi\TaskManagement.Repository\bin\Debug\net6.0\TaskManagement.Repository.deps.json
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פוריקט מהבית\פרויקט\TaskManagement.WebApi\TaskManagement.Repository\bin\Debug\net6.0\TaskManagement.Repository.dll
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פוריקט מהבית\פרויקט\TaskManagement.WebApi\TaskManagement.Repository\bin\Debug\net6.0\TaskManagement.Repository.pdb
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פוריקט מהבית\פרויקט\TaskManagement.WebApi\TaskManagement.Repository\obj\Debug\net6.0\TaskManagement.Repository.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פוריקט מהבית\פרויקט\TaskManagement.WebApi\TaskManagement.Repository\obj\Debug\net6.0\TaskManagement.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פוריקט מהבית\פרויקט\TaskManagement.WebApi\TaskManagement.Repository\obj\Debug\net6.0\TaskManagement.Repository.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פוריקט מהבית\פרויקט\TaskManagement.WebApi\TaskManagement.Repository\obj\Debug\net6.0\TaskManagement.Repository.AssemblyInfo.cs
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פוריקט מהבית\פרויקט\TaskManagement.WebApi\TaskManagement.Repository\obj\Debug\net6.0\TaskManagement.Repository.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פוריקט מהבית\פרויקט\TaskManagement.WebApi\TaskManagement.Repository\obj\Debug\net6.0\TaskManagement.Repository.dll
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פוריקט מהבית\פרויקט\TaskManagement.WebApi\TaskManagement.Repository\obj\Debug\net6.0\refint\TaskManagement.Repository.dll
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פוריקט מהבית\פרויקט\TaskManagement.WebApi\TaskManagement.Repository\obj\Debug\net6.0\TaskManagement.Repository.pdb
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פוריקט מהבית\פרויקט\TaskManagement.WebApi\TaskManagement.Repository\obj\Debug\net6.0\ref\TaskManagement.Repository.dll
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Repository\bin\Debug\net6.0\TaskManagement.Repository.deps.json
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Repository\bin\Debug\net6.0\TaskManagement.Repository.dll
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Repository\bin\Debug\net6.0\TaskManagement.Repository.pdb
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Repository\obj\Debug\net6.0\TaskManagement.Repository.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Repository\obj\Debug\net6.0\TaskManagement.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Repository\obj\Debug\net6.0\TaskManagement.Repository.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Repository\obj\Debug\net6.0\TaskManagement.Repository.AssemblyInfo.cs
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Repository\obj\Debug\net6.0\TaskManagement.Repository.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Repository\obj\Debug\net6.0\TaskManagement.Repository.dll
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Repository\obj\Debug\net6.0\refint\TaskManagement.Repository.dll
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Repository\obj\Debug\net6.0\TaskManagement.Repository.pdb
+C:\Users\user1\Desktop\Ruti\לימודים תשפד\המורה סירוקה C#\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Repository\obj\Debug\net6.0\ref\TaskManagement.Repository.dll
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Repository\bin\Debug\net6.0\TaskManagement.Repository.deps.json
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Repository\bin\Debug\net6.0\TaskManagement.Repository.dll
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Repository\bin\Debug\net6.0\TaskManagement.Repository.pdb
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Repository\obj\Debug\net6.0\TaskManagement.Repository.csproj.AssemblyReference.cache
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Repository\obj\Debug\net6.0\TaskManagement.Repository.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Repository\obj\Debug\net6.0\TaskManagement.Repository.AssemblyInfoInputs.cache
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Repository\obj\Debug\net6.0\TaskManagement.Repository.AssemblyInfo.cs
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Repository\obj\Debug\net6.0\TaskManagement.Repository.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Repository\obj\Debug\net6.0\TaskManagement.Repository.dll
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Repository\obj\Debug\net6.0\refint\TaskManagement.Repository.dll
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Repository\obj\Debug\net6.0\TaskManagement.Repository.pdb
+L:\שנה ב\משרד החינוך\רותי שהרבני\C# מתקדם\פרויקט 1\פרויקט\TaskManagement.WebApi\TaskManagement.Repository\obj\Debug\net6.0\ref\TaskManagement.Repository.dll
